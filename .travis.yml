@@ -2,7 +2,7 @@ sudo: false
 
 jobs:
   include:
-    - stage: unit tests
+    - stage: unit testss
       script: echo one
     - stage: unit tests
       script: echo two
