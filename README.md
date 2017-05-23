@@ -5,4 +5,4 @@ This repository contains examples for Travis CI [Build Stages](docs.travis-ci.co
 Please refer to our documentation for an [overview of these examples](http://localhost:4000/user/build-stages/#Examples).
 
 
-test
+test2
